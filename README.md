@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @NicoleMeyerData 
+- Welcome to my developer porfolio
 - 👀 I’m interested in Data Engineering, Data Science, Data Visualization
 - 🌱 I’m currently learning Python, MSBI Stack, Azure Synapse Analytics
 <!---
