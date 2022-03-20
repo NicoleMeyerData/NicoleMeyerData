@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicoleMeyerData 
 - Welcome to my data science porfolio
-- 👀 I’m interested in Data Engineering, Data Science and Data Visualization
+- 👀 I’m interested in Data Engineering, Data Science, Data Visualization and Technical Writing
 - 🌱 I’m currently learning Python, Power Platform, MSBI Stack, T-SQL, Azure Synapse Analytics
 - Causes I care about: Mutual aid, education, homelessness/home inscurity, environmental justice, social justice
 <!---
