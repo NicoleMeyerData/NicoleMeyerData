@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NicoleMeyerData 
-- Welcome to my data developer porfolio
+- Welcome to my data science porfolio
 - 👀 I’m interested in Data Engineering, Data Science and Data Visualization
 - 🌱 I’m currently learning Python, Power Platform, MSBI Stack, T-SQL, Azure Synapse Analytics
 <!---
